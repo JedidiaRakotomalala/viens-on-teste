@@ -78,6 +78,7 @@ WHERE c.dept_no = '$dept_no' " ;
         </div>
     </div>
     <h2>TEST DE MODIFICATION (modifiee par 01)</h2>
+    <h2>TEST DE MODIFICATION (modifiee par 01 le vrai)</h2>
 
 </body>
 </html>
