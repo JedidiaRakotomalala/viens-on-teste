@@ -79,9 +79,10 @@ WHERE c.dept_no = '$dept_no' " ;
     </div>
     <h2>TEST DE MODIFICATION (modifiee par 01)</h2>
     <h2>TEST DE MODIFICATION (modifiee par 01 le vrai)</h2>
-    <h2>TEST DE MODIFICATION (modifiee par 01 le faut)</h2>
+    <h2>TEST DE MODIFICATION (modifiee par 01 le faux)</h2>
     <h2>TEST DE MODIFICATION (modifiee par 01 le vrai 2)</h2>
-    <h2>TEST DE MODIFICATION (modifiee par 01 le faut)</h2>
+    <h2>TEST DE MODIFICATION (modifiee par 01 le faux 2 )</h2>
+    <h2>TEST DE MODIFICATION (modifiee par 01 le VRAI 3 )</h2>
 
 </body>
 </html>
